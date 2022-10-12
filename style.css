@@ -1,0 +1,19 @@
+h1 {
+    color: aqua;
+    background-color: black;
+    font-family: cursive;
+    text-align: left;
+}
+#My{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+    background-color: blueviolet;
+    text-align: center;
+}
+h3{
+    color: black;
+    background-color: cyan;
+    text-align: right;
+}
